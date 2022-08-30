@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#to-do-list">About The Project</a>
+      <a href="#leaderboard">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -27,9 +27,9 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-# To-Do-List
+# Leaderboard
 
-A tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. This project incorporates a simple HTML list of To Do tasks. The list will be styled according to the specifications listed. This simple web page will be built using webpack and served by a webpack dev server.
+The Leaderboard list app is a JavaScript project which uses webpack and ES6 features, notably modules. Developed from wireframe and consumes the Leaderboard API using JavaScript async and await.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -40,7 +40,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 ### Built With
 
 - HTML, CSS, Javascript
-- No frameworks used
+- No Styling frameworks used
 - Github
 - Webpack
 
@@ -48,13 +48,13 @@ A tool that helps to organize your day. It simply lists the things that you need
 
 ## Live Demo
 
-- Click [here](https://debbymiressa.github.io/To-Do-List/) to get started with a live demo
+- Click [here](https://debbymiressa.github.io/Leaderboard/) to get started with a live demo
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 **Instructions on how to access my project locally:** 
-- Enter this url: [https://github.com/DebbyMiressa/To-Do-List](https://github.com/DebbyMiressa/To-Do-List) in your web browser.
+- Enter this url: [https://github.com/DebbyMiressa/Leaderboard](https://github.com/DebbyMiressa/Leaderboard) in your web browser.
 - Clone it to your local machine.
 - Once the download is complete you will be able to access my project locally . 
 
