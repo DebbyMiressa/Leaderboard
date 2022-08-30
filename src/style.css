@@ -4,7 +4,8 @@ body {
   flex-direction: column;
   margin: auto;
 }
-#container{
+
+#container {
   display: flex;
   justify-content: space-evenly;
 }
