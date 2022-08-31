@@ -1,4 +1,4 @@
-export default class Refresh {
+export default class GET {
   constructor() {
     this.index = 0;
   }
