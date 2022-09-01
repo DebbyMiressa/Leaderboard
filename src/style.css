@@ -22,3 +22,18 @@ body {
 button {
   align-self: flex-end;
 }
+
+li {
+  text-decoration: none;
+  list-style: none;
+  margin-left: -39px;
+}
+
+li:nth-child(even) {
+  background: lightgray;
+}
+
+.score_list,
+button {
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5);
+}

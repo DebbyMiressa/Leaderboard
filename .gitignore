@@ -130,3 +130,4 @@ dist
 .stylelintrc.json
 .hintrc
 .eslintrc.json
+hint-report
