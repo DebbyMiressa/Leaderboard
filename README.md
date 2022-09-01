@@ -34,7 +34,7 @@ The Leaderboard list app is a JavaScript project which uses webpack and ES6 feat
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Preview 📸
-<img width="800" alt="To-Do-List Preview Screenshot" src="./To-Do-List Preview.png">
+<img width="800" alt="Leaderboard Preview Screenshot" src="./leaderboard.png">
 
 
 ### Built With
