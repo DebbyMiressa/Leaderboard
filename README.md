@@ -43,6 +43,7 @@ The Leaderboard list app is a JavaScript project which uses webpack and ES6 feat
 - No Styling frameworks used
 - Github
 - Webpack
+- Gitflow
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
